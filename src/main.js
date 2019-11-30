@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import App from './App.vue'
+import App from './defalt.vue'
 import router from './router'
 import store from './store'
 
