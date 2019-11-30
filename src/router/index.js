@@ -25,7 +25,7 @@ const routes = [{
 
 const router = new VueRouter({
   mode: 'history',
-  base: process.env.ROOT_BASE, // new!
+  base: '/ec-sample-vue-cli/', // new!
   routes
 })
 
