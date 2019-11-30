@@ -1,3 +1,5 @@
 module.exports = {
-    publicPath: '/ec-sample-vue-cli/',
+    outputDir: 'docs',
+    assetsDir: './',
+    publicPath: './'
 }
