@@ -9,7 +9,7 @@
 import Hero from "@/components/hero/Hero";
 import ProductsList from "@/components/products_list/ProductsListContainer";
 export default {
-  name: "index",
+  name: "home",
   components: {
     ProductsList,
     Hero

@@ -2,7 +2,7 @@
   <div>
     <Header />
     <main>
-      <router-view></router-view>
+      <router-view />
       <LoginModal />
       <RegistrationModal />
       <CheckoutModal />
